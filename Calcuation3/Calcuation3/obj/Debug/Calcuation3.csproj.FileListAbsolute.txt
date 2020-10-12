@@ -1,0 +1,7 @@
+E:\c#\Calcuation3\Calcuation3\bin\Debug\Calcuation3.exe.config
+E:\c#\Calcuation3\Calcuation3\bin\Debug\Calcuation3.exe
+E:\c#\Calcuation3\Calcuation3\bin\Debug\Calcuation3.pdb
+E:\c#\Calcuation3\Calcuation3\obj\Debug\Calcuation3.csprojAssemblyReference.cache
+E:\c#\Calcuation3\Calcuation3\obj\Debug\Calcuation3.csproj.CoreCompileInputs.cache
+E:\c#\Calcuation3\Calcuation3\obj\Debug\Calcuation3.exe
+E:\c#\Calcuation3\Calcuation3\obj\Debug\Calcuation3.pdb
